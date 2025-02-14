@@ -3,7 +3,7 @@
 Full-Stack Developer | Computer Science Student | Tech Enthusiast<br/>
 🚀 Passionate about building scalable and efficient systems.<br/>
 🌱 Currently learning advanced backend frameworks like NestJS and exploring modern frontend with Next.js.<br/>
-🛠 Skilled in Node.js, Go, PostgreSQL, Next.js, Docker, and more.
+🛠 Skilled in Node.js, PostgreSQL, Next.js, Docker, and more.
 
 
 
